@@ -11,3 +11,4 @@ Tips to improve personal security habits
 ## WebBrowser advices
  * You can try to use finance web-applications via private mode of your browser.
  * Do not keep your passwords in browser.
+ * Log off your accounts. Browser files could be easily copied.
